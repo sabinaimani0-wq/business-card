@@ -1,0 +1,49 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(72, 15, 15);
+}
+.logoimg{
+    width: 60px;
+    height: 50px;
+    display: flex;
+    border-radius: 50%;
+}
+.menu1{
+    display: flex;
+    gap:20px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    list-style: none;text-decoration:none ;
+}
+.menu3{
+    display: flex;
+    gap:20px
+    align-item:flex-end
+    list-style: none;text-decoration: none;
+}
+.parent{display: flex;text-decoration: none;gap:30px}
+body{
+    background-color: blueviolet;
+}
+.store{|
+width: 50p;
+margin: 10px;
+margin-top: 30px;
+text-align: center;
+background-color: darkgoldenrod;
+border: 8px solid pink;
+border-radius: 10px;
+list-style-position: inside;
+}
+.image{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin: auto;
+}
+.room{
+    color: plum;
+    background-color: black;
+    text-align: center;
+}
