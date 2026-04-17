@@ -4,8 +4,8 @@
     background-color: rgb(72, 15, 15);
 }
 .logoimg{
-    width: 60px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     display: flex;
     border-radius: 50%;
 }
@@ -16,19 +16,13 @@
     justify-content: flex-end;
     list-style: none;text-decoration:none ;
 }
-.menu3{
-    display: flex;
-    gap:20px
-    align-item:flex-end
-    list-style: none;text-decoration: none;
-}
 .parent{display: flex;text-decoration: none;gap:30px}
 body{
     background-color: blueviolet;
 }
-.store{|
+.store{
 width: 30p;
-margin: 10px;
+margin: 50px;
 margin-top: 30px;
 text-align: center;
 background-color: darkgoldenrod;
